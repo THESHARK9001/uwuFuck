@@ -13,6 +13,7 @@ What is the same as in brainFuck?
 - "<"
 - ">"
 - "-"
+
 What replaces what?
 - "O" replaces "+"
 - "m" replaces "."
