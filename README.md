@@ -9,14 +9,12 @@ Brainfuck, but it uses uwu related letters
 
 # Index
 
-What is the same as in brainFuck?
-- "<"
-- ">"
-- "-"
-
-What replaces what?
-- "O" replaces "+"
-- "m" replaces "."
-- "3" replaces ","
-- "^" replaces "["
-- "T" replaces "]"
+What has changed?
+- "<" is now ">~<"
+- ">" is now ">w<"
+- "+" is now "OwO"
+- "-" is now "-w-"
+- "." is now "UmU"
+- "," is now ":3"
+- "[" is now "^w^"
+- "]" is now "TwT"
