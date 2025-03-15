@@ -21,3 +21,6 @@ What has changed?
 
 # How does the Interpreter work?
 It works exactly like Brainfuck. This interpreter takes your input/file and makes a temporary ".uftemp" file, this file holds translated Brainfuck code. It then reads off of it before deleting the ".uftemp" file
+
+# What does a "Hello World!" script look like?
+OwO OwO OwO OwO OwO OwO OwO OwO OwO OwO ^w^ >w< OwO OwO OwO OwO OwO OwO OwO >w< OwO OwO OwO OwO OwO OwO OwO OwO OwO OwO >w< OwO OwO OwO >w< OwO >~< >~< >~< >~< -w- TwT >w< OwO OwO UmU >w< OwO UmU OwO OwO OwO OwO OwO OwO OwO UmU UmU OwO OwO OwO UmU >w< OwO OwO UmU >~< >~< OwO OwO OwO OwO OwO OwO OwO OwO OwO OwO OwO OwO OwO OwO OwO UmU >w< UmU OwO OwO OwO UmU -w- -w- -w- -w- -w- -w- UmU -w- -w- -w- -w- -w- -w- -w- -w- UmU >w< OwO UmU >w< UmU
