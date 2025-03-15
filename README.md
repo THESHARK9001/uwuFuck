@@ -18,3 +18,6 @@ What has changed?
 - "," is now ":3"
 - "[" is now "^w^"
 - "]" is now "TwT"
+
+# How does the Interpreter work?
+It works exactly like Brainfuck. This interpreter takes your input/file and makes a temporary ".uftemp" file, this file holds translated Brainfuck code. It then reads off of it before deleting the ".uftemp" file
