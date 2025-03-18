@@ -1,6 +1,6 @@
 import sys
 from functools import lru_cache
-import os
+import msvcrt
 
 filename = f"{sys.argv[1]}"
 filenamenoex = filename.removesuffix(".uf")
@@ -78,6 +78,8 @@ def uwuCodeTranslator():
             
     # File gets closed again, then reopen in read mode. This is then run into the interpreter. Then it closes the .uftemp file and deletes it
     uwuCodeInterpreter(bfCode)
+    print("Press any key to close...")
+    msvcrt.getch()
 
 # Looks to see if the input file is a .uf file or not. If not, it throws an error and asks for a .uf file
 @lru_cache
