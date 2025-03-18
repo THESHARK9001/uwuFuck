@@ -3,7 +3,7 @@
 @python.exe -m pip install --upgrade pip
 @pip install pyinstaller
 @pyinstaller --clean --onefile --icon=.\uwufuckbuild\uwuFuck_Interpreter.png .\uwufuckbuild\uwuFuck_Interpreter.py
-@del uwuFuck_FileInterpreter.spec
+@del uwuFuck_Interpreter.spec
 @echo y|rmdir /s build
 @copy .\dist\uwuFuck_Interpreter.exe .\uwuFuck_Interpreter.exe
 @echo y|rmdir /s dist
