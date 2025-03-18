@@ -4,8 +4,8 @@ Brainfuck, but it uses uwu related words
 # Building
 
 - Download Python 3.13
-- Run build.bat and select either *1* for a File Interpreter or *2* for an Input Interpreter
-- Run either exe, depending on what you want :3
+- Run build.bat
+- Run exe :3
 
 # Index
 
